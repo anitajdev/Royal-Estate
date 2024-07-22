@@ -1,2 +1,1 @@
-# Royal-Estate
- Real estate app - MERN Stack App & Real-time Chat
+# React Real Estate UI Design
